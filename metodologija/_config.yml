@@ -1,0 +1,5 @@
+# in _config.yml
+title: "171150"
+logo: logo.png
+execute:
+  execute_notebooks: "auto"
